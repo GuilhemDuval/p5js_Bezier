@@ -1,3 +1,16 @@
+//////// QUESTIONS
+
+// J'ai produit plusieurs exemples d'utilisation des courbes de Bézier pour de la création graphique. J'ai d'abord utilisé des fonctions simples pour expliciter le principe des courbes Bézier. Puis j'ai présenté une application plus artistique et interactive des courbes de Bézier.
+
+// Coder et pouvoir voir le résultat simultanément m'a permis de facilement tester les différentes fonctions de Bézier. J'ai ainsi pu manipuler les fonctions, leurs valeurs et voir directement l'impact de mes modifications. Ainsi, les fonctions devenaient simples à prendre en main.
+
+// Plus que les lire des références ou même écrire, je dialoguais avec le code. Mes interactions causent un impact direct. Je pouvais ainsi modifier mes actions suivant le résultat obtenu. Coder est donc pour moi un dialogue entre l'humain et la machine.
+
+// Grâce à cet exercice, j'ai pu voir le code comme une réelle forme de langage.
+
+
+//////// REFLEXIONS SUPPLEMENTAIRES
+
 // Les courbes de Bézier sont des outils mathématiques qui ouvrent la porte à une représentation. Comme de nombreuses techniques, elles ont été inventé par des ingénieurs et non pour l'art en soi. En tant qu'artistes-ingénieurs, nous devons nous réapproprier des formes variées de représentation. L'art peut naître de tout et donc aussi de la science.
 
 // Pour se réapproprier un outil comme les courbes de Bézier, il faut d'abord le comprendre. Appréhender ses règles et son fonctionnement est essentiel pour l'utiliser à bon escient. Cela s'applique à tous les domaines de l'art même ceux non liés directement à la science. Il est important de comprendre le fonctionnement de l'anatomie pour un danseur, de son matériel de peinture pour un peintre et ainsi de suite.
